@@ -1,3 +1,5 @@
+https://hub.docker.com/repository/docker/thaisrfernandes/quotation-app
+
 # Distribuição de uma aplicação utilizando container Docker
 ### Objetivo
 O objetivo geral desta atividade é empacotar e distribuir uma aplicação real e todas as suas dependências na forma de um container Docker. Os objetivos específicos da atividade incluem a fixação e expansão do conteúdo visto em aula, através do estudo da plataforma Docker, e o entendimento de como aplicar essa tecnologia na prática.
